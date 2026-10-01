@@ -60,6 +60,39 @@ The server runs on four bots we build in-house. They share a design language, a 
   </tr>
   <tr>
     <td width="120" align="center" valign="top">
+      <img src="https://bigif.org/assets/bots/custodian.png" alt="Custodian" width="96" /><br />
+      <strong>Custodian</strong><br /><sub>The Host</sub>
+    </td>
+    <td valign="top">
+      <strong>Moderation, security and server life. It "catches scammers before they catch your members."</strong>
+      <ul>
+        <li><strong>Containment.</strong> A member reports a suspicious account and a moderator contains it with one click. Custodian removes the account's roles, confines it to a holding channel, captures evidence and links related accounts. Released members get their roles back. To get out, the account has to pass an escape room: a CAPTCHA plus a reflection wait.</li>
+        <li><strong>Threat assessment.</strong> A 0–100 risk score, backed by evidence for each signal. Optional, anonymous cross-server reputation is shown only when enough independent communities agree.</li>
+        <li><strong>Security suite.</strong>
+          <ul>
+            <li>Anti-nuke and anti-raid protection.</li>
+            <li>A scam link filter that catches typosquats, homoglyphs and IP grabbers.</li>
+            <li>Smart dehoisting of impersonators.</li>
+            <li>Covert-promotion detection.</li>
+            <li>Bot permission monitoring.</li>
+            <li>An offline anti-malware scanner that reads QR codes and uses OCR, without uploading anything to third parties.</li>
+          </ul>
+          It never asks for Administrator.</li>
+        <li><strong>Transparent moderation.</strong> A categorized, hash-chained (tamper-evident) mod log. In Big If True, the moderation and containment logs are open to members, so anyone can see what action was taken and why.</li>
+        <li><strong>Community.</strong>
+          <ul>
+            <li>Leveling with rendered rank cards, streaks and role rewards.</li>
+            <li>Giveaways, polls and predictions.</li>
+            <li>Sticky, booster and event roles, and an automation builder.</li>
+            <li>Vote rewards and server backups.</li>
+          </ul>
+        </li>
+        <li><strong>Watch Nights.</strong> Staff-hosted anime, movie and TV nights with queues, RSVPs, suggestions, votes and attendance rewards.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="120" align="center" valign="top">
       <img src="https://bigif.org/assets/bots/disco.png" alt="Disco" width="96" /><br />
       <strong>Disco</strong><br /><sub>The Spark</sub>
     </td>
@@ -92,39 +125,6 @@ The server runs on four bots we build in-house. They share a design language, a 
       </ul>
     </td>
   </tr>
-  <tr>
-    <td width="120" align="center" valign="top">
-      <img src="https://bigif.org/assets/bots/custodian.png" alt="Custodian" width="96" /><br />
-      <strong>Custodian</strong><br /><sub>The Host</sub>
-    </td>
-    <td valign="top">
-      <strong>Moderation, security and server life. It "catches scammers before they catch your members."</strong>
-      <ul>
-        <li><strong>Containment.</strong> A member reports a suspicious account and a moderator contains it with one click. Custodian removes the account's roles, confines it to a holding channel, captures evidence and links related accounts. Released members get their roles back. To get out, the account has to pass an escape room: a CAPTCHA plus a reflection wait.</li>
-        <li><strong>Threat assessment.</strong> A 0–100 risk score, backed by evidence for each signal. Optional, anonymous cross-server reputation is shown only when enough independent communities agree.</li>
-        <li><strong>Security suite.</strong>
-          <ul>
-            <li>Anti-nuke and anti-raid protection.</li>
-            <li>A scam link filter that catches typosquats, homoglyphs and IP grabbers.</li>
-            <li>Smart dehoisting of impersonators.</li>
-            <li>Covert-promotion detection.</li>
-            <li>Bot permission monitoring.</li>
-            <li>An offline anti-malware scanner that reads QR codes and uses OCR, without uploading anything to third parties.</li>
-          </ul>
-          It never asks for Administrator.</li>
-        <li><strong>Transparent moderation.</strong> A categorized, hash-chained (tamper-evident) mod log. In Big If True, the moderation and containment logs are open to members, so anyone can see what action was taken and why.</li>
-        <li><strong>Community.</strong>
-          <ul>
-            <li>Leveling with rendered rank cards, streaks and role rewards.</li>
-            <li>Giveaways, polls and predictions.</li>
-            <li>Sticky, booster and event roles, and an automation builder.</li>
-            <li>Vote rewards and server backups.</li>
-          </ul>
-        </li>
-        <li><strong>Watch Nights.</strong> Staff-hosted anime, movie and TV nights with queues, RSVPs, suggestions, votes and attendance rewards.</li>
-      </ul>
-    </td>
-  </tr>
 </table>
 
 ---
@@ -133,10 +133,10 @@ The server runs on four bots we build in-house. They share a design language, a 
 
 | | |
 |---|---|
-| 📰 **[News desk](https://bigif.org/news/)** | Source-backed stories that group the reporting on one event, each with a source trail, updates timeline and discussion thread. Save stories and set topic alerts from your [account](https://bigif.org/account/). |
-| 🧩 **Dailies** | Three shared daily games, playable on the web or inside Discord as Activities with `/daily`:<br>• **[Big Daily](https://bigif.org/daily/)**: four fresh moves through the news<br>• **[Ticker Daily](https://bigif.org/ticker-daily/)**: crypto, stocks and the economy<br>• **[Disco Daily](https://bigif.org/disco-daily/)**: what happened in the server<br>Get a perfect score in any of them to earn a weekly reward. |
+| 📰 **[News desk](https://bigif.org/news/)** | Source-backed stories that group the reporting on one event, each with a source trail, updates timeline and discussion thread. Save stories, set topic alerts from your [account](https://bigif.org/account/), or follow any topic in a reader with the [RSS feeds](https://bigif.org/news/feeds/). |
+| 🧩 **Dailies** | Three shared daily games, playable on the web or inside Discord as Activities with `/daily`:<br>• **[Big Daily](https://bigif.org/daily/)**: four fresh moves through the news<br>• **[Disco Daily](https://bigif.org/disco-daily/)**: what happened in the server<br>• **[Ticker Daily](https://bigif.org/ticker-daily/)**: crypto, stocks and the economy<br>Get a perfect score in any of them to earn a weekly reward. |
 | 🍿 **[Watch Nights](https://bigif.org/watch/)** | *Meet in Discord. Watch together.* Synced community viewing, either in a Discord Activity or on the website. Members suggest and vote on what to watch next. |
-| ✨ **[B!T+ and B!T Pro](https://bigif.org/payment/)** | Optional memberships that raise your shared weekly AI allowance across Disco, Big, Ticker and the website. Free access stays free. |
+| ✨ **[B!T+ and B!T Pro](https://bigif.org/payment/)** | Optional memberships that raise your shared weekly AI allowance across Big, Disco, Ticker and the website. Free access stays free. |
 
 ---
 
@@ -153,23 +153,23 @@ For developers who like to know how things work:
                                         │ story API · daily · watch
         ┌──────────────┬────────────────┼──────────────────┬───────────────┐
         │              │                │                  │               │
-   ┌────▼────┐    ┌────▼────┐      ┌────▼─────┐      ┌─────▼─────┐   ┌─────▼─────┐
-   │   Big   │    │  Disco  │      │  Ticker  │      │ Custodian │   │  Jellyfin │
-   │ Python  │    │ Python  │      │ Node.js  │      │  Python   │   │  (Watch   │
-   │ SQLite  │    │ Postgres│      │ Postgres │      │ Postgres  │   │  Nights)  │
-   └────┬────┘    └────┬────┘      └────┬─────┘      └───────────┘   └───────────┘
-        │              │                │ (Python AI adapter)
-        └──────────────┴───────┬────────┘
-                    ┌──────────▼───────────┐
-                    │  Shared AI framework │  policy · tools · research ·
-                    │  (Postgres + Redis)  │  one weekly credit ledger
-                    └──────────────────────┘
+   ┌────▼────┐   ┌─────▼─────┐     ┌────▼────┐       ┌─────▼────┐    ┌─────▼─────┐
+   │   Big   │   │ Custodian │     │  Disco  │       │  Ticker  │    │  Jellyfin │
+   │ Python  │   │  Python   │     │ Python  │       │ Node.js  │    │  (Watch   │
+   │ SQLite  │   │ Postgres  │     │ Postgres│       │ Postgres │    │  Nights)  │
+   └────┬────┘   └───────────┘     └────┬────┘       └─────┬────┘    └───────────┘
+        │                               │                  │ (Python AI adapter)
+        └───────────────────────────────┴─────────┬────────┘
+                                       ┌──────────▼───────────┐
+                                       │  Shared AI framework │  policy · tools · research ·
+                                       │  (Postgres + Redis)  │  one weekly credit ledger
+                                       └──────────────────────┘
 ```
 
 - **Big:** Python 3.11+, discord.py, aiohttp, SQLite with versioned migrations, and feedparser. It runs in Docker as a non-root user on a read-only filesystem.
+- **Custodian:** Python, discord.py, PostgreSQL and a FastAPI REST API. The offline scanning stack is Pillow, zxing-cpp and Tesseract. Its dashboard is TanStack Start (React 19, SSR) in TypeScript.
 - **Disco:** Python 3.12, discord.py with the Components V2 UI, PostgreSQL via asyncpg, and Redis/Valkey. Private workspace commands run in a Bubblewrap sandbox.
 - **Ticker:** Node.js and discord.js v14, with Puppeteer for chart rendering, ccxt for exchange data, and PostgreSQL. A small Python adapter connects it to the shared AI framework.
-- **Custodian:** Python, discord.py, PostgreSQL and a FastAPI REST API. The offline scanning stack is Pillow, zxing-cpp and Tesseract. Its dashboard is TanStack Start (React 19, SSR) in TypeScript.
 - **Website:** framework-free static pages with self-hosted fonts and no tracking scripts, served through nginx or Cloudflare Pages.
 - **Shared AI layer:** Big, Disco and Ticker share one AI runtime that handles model policy, tool calling, bounded web research with citation checks, and a single weekly credit ledger. Models are routed through OpenRouter, with zero-data-retention routing where it's available.
 - **Engineering norms across the projects:** Docker everywhere, CI on GitHub Actions (ruff, mypy, pytest, `node --test`), forward-only migrations, and least-privilege bot permissions.
