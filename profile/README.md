@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://discord.gg/bigiftrue"><img alt="Join the Discord" src="https://img.shields.io/badge/Discord-Join%20the%20server-889fe3?style=for-the-badge&logo=discord&logoColor=white&labelColor=0b101b" /></a>
   <a href="https://bigif.org"><img alt="bigif.org" src="https://img.shields.io/badge/Web-bigif.org-8dd5da?style=for-the-badge&labelColor=0b101b" /></a>
-  <a href="https://x.com/BigIfHQ"><img alt="@BigIfHQ on X" src="https://img.shields.io/badge/X-@BigIfHQ-f5f1e9?style=for-the-badge&logo=x&logoColor=white&labelColor=0b101b" /></a>
+  <a href="https://x.com/BigIfNews"><img alt="@BigIfNews on X" src="https://img.shields.io/badge/X-@BigIfNews-f5f1e9?style=for-the-badge&logo=x&logoColor=white&labelColor=0b101b" /></a>
 </p>
 
 ---
@@ -189,5 +189,5 @@ Ticker began as a fork of the excellent [TsukiBot](https://github.com/EthyMoney/
 <p align="center">
   <a href="https://bigif.org"><img src="https://bigif.org/assets/big-wordmark.png" alt="B*ig If True" width="220" /></a><br />
   <sub>News, conversation, and the people between them.</sub><br />
-  <sub><a href="https://bigif.org">bigif.org</a> · <a href="https://discord.gg/bigiftrue">Discord</a> · <a href="https://x.com/BigIfHQ">X</a> · <a href="https://bigif.org/bots/">Bots</a> · <a href="https://bigif.org/terms/">Terms</a> · <a href="https://bigif.org/privacy/">Privacy</a></sub>
+  <sub><a href="https://bigif.org">bigif.org</a> · <a href="https://discord.gg/bigiftrue">Discord</a> · <a href="https://x.com/BigIfNews">X</a> · <a href="https://bigif.org/bots/">Bots</a> · <a href="https://bigif.org/terms/">Terms</a> · <a href="https://bigif.org/privacy/">Privacy</a></sub>
 </p>
