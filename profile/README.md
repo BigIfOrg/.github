@@ -16,6 +16,7 @@
   <a href="https://bigif.org"><img alt="bigif.org" src="https://img.shields.io/badge/Web-bigif.org-8dd5da?style=for-the-badge&labelColor=0b101b" /></a>
   <a href="https://x.com/BigIfNews"><img alt="@BigIfNews on X" src="https://img.shields.io/badge/X-@BigIfNews-f5f1e9?style=for-the-badge&logo=x&logoColor=white&labelColor=0b101b" /></a>
   <a href="https://bsky.app/profile/bigif.org"><img alt="@bigif.org on Bluesky" src="https://img.shields.io/badge/Bluesky-@bigif.org-889fe3?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=0b101b" /></a>
+  <a href="https://www.reddit.com/user/BigIfNews/"><img alt="u/BigIfNews on Reddit" src="https://img.shields.io/badge/Reddit-u%2FBigIfNews-e8a397?style=for-the-badge&logo=reddit&logoColor=white&labelColor=0b101b" /></a>
 </p>
 
 ---
@@ -190,5 +191,5 @@ Ticker began as a fork of the excellent [TsukiBot](https://github.com/EthyMoney/
 <p align="center">
   <a href="https://bigif.org"><img src="https://bigif.org/assets/big-wordmark.png" alt="B*ig If True" width="220" /></a><br />
   <sub>News, conversation, and the people between them.</sub><br />
-  <sub><a href="https://bigif.org">bigif.org</a> · <a href="https://discord.gg/bigiftrue">Discord</a> · <a href="https://x.com/BigIfNews">X</a> · <a href="https://bsky.app/profile/bigif.org">Bluesky</a> · <a href="https://bigif.org/bots/">Bots</a> · <a href="https://bigif.org/terms/">Terms</a> · <a href="https://bigif.org/privacy/">Privacy</a></sub>
+  <sub><a href="https://bigif.org">bigif.org</a> · <a href="https://discord.gg/bigiftrue">Discord</a> · <a href="https://x.com/BigIfNews">X</a> · <a href="https://bsky.app/profile/bigif.org">Bluesky</a> · <a href="https://www.reddit.com/user/BigIfNews/">Reddit</a> · <a href="https://bigif.org/bots/">Bots</a> · <a href="https://bigif.org/terms/">Terms</a> · <a href="https://bigif.org/privacy/">Privacy</a></sub>
 </p>
